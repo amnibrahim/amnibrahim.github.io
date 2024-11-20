@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Lecturer</p>
+    <p>Bina Nusantara University</p>
+    <p>muhammad.amien@binus.ac.id</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a lecturer at Bina Nusantara University, Indonesia. My research focuses on natural language processing and computational social science, particularly adressing online toxicity like hate speech and abusive language on social media.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a master's in Data Science from Lancaster University. There, I worked with industry partner [GBG](https://www.linkedin.com/company/gb-group) to analyze and classify company websites based on their business domains, helping identify potential clients. This work was supervised by [Azadeh Khaleghi](https://azalk.github.io/), with industry mentorship from [Ian Hopkinson](https://www.linkedin.com/in/ianhopkinsonchester/).
