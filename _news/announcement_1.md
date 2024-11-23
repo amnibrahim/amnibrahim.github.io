@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[1 paper accepted at Journal of Computer Science](https://thescipub.com/abstract/jcssp.2024.819.826)
+[1 paper accepted at Journal of Computer Science ✨](https://thescipub.com/abstract/jcssp.2024.819.826)
