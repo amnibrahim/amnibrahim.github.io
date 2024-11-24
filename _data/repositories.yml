@@ -1,5 +1,7 @@
 repo_description_lines_max: 2
 
 github_repos:
+  - amnibrahim/Machine-Learning
+  - amnibrahim/ufosights
   - amnibrahim/animated-menu-button
   - amnibrahim/odd-number-game
